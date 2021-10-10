@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
+<h1 align="center">Hi, i am Christian 👋</h1>
 <h3 align="center">A Junior Frontent Developer searching for a Job in Hamburg or Remote.</h3>
 
 
