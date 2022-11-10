@@ -9,6 +9,4 @@
 
 <h3 align="center">A Junior Frontent Developer searching for a Job in Hamburg or Remote.</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianseelemann&show_icons=true&locale=en&theme=radical&count_private=true&custom_title=My GitHub Stats&include_all_commits=true" alt="christianseelemann" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianseelemann&theme=radical&count_private=true" alt="christianseelemann" /></p>
